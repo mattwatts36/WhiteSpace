@@ -1,0 +1,24 @@
+﻿@model IEnumerable<Web.Models.OrderItem>
+
+<h1>Your Order Details</h1>
+<p>Order details for order : @Request.QueryString["itemRef"]</p>
+
+<table class="table table-bordered table-responsive table-hover">
+	<tr>
+		<th>Code</th>
+		<th>Description</th>
+		<th>Cost</th>
+		<th>Quantity</th>
+		<th>Line Cost</th>
+	</tr>
+	@foreach (var item in Model)
+	{
+		<tr>
+			<td>@item.Code.ToString()</td>
+			<td>@item.Description.ToString()</td>
+			<td>@item.Cost.ToString()</td>
+			<td>@item.Quantity.ToString()</td>
+			<td>@(@item.Quantity * @item.Cost)</td>
+		</tr>
+	}
+</table>

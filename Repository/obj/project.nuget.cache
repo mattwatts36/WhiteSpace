@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yIP+UjIhvai9HC4lAM4CqZ2WvkXJGGyeggAEZscAxgZsO5/3RrpAGUEk0s9BwhHF6xsN3udUPXMoviV43q9RcQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\Documents\\Visual Studio 2019\\WhiteSpaceTest\\Repository\\Repository.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

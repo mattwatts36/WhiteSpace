@@ -1,0 +1,17 @@
+﻿@model IEnumerable<Web.Models.Order>
+
+<h1>Your Orders</h1>
+
+<table id="table">
+@foreach (var order in Model)
+{
+	<tr>
+		<td>
+			@Html.DisplayFor(model => order.Ref)
+			@Html.ActionLink("Click here to view full order details", "OrderDetails",
+				"Order", routeValues: new {itemRef = order.Ref}, htmlAttributes: null)
+		</td>
+	</tr>
+}
+	
+</table>

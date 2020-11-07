@@ -1,0 +1,24 @@
+E:\Tech Test\Whitespace\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Tech Test\Whitespace\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Tech Test\Whitespace\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Tech Test\Whitespace\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Tech Test\Whitespace\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Tech Test\Whitespace\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Tech Test\Whitespace\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\Domain\obj\Debug\netstandard2.1\Domain.pdb
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\Domain\bin\Debug\netstandard2.1\Domain.dll
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\Domain\bin\Debug\netstandard2.1\Domain.pdb
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\Domain\obj\Debug\netstandard2.1\Domain.dll
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\Domain\obj\Debug\netstandard2.1\Domain.pdb

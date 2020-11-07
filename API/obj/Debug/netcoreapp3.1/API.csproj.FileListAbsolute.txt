@@ -1,0 +1,62 @@
+E:\Tech Test\Whitespace\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Tech Test\Whitespace\API\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Tech Test\Whitespace\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+E:\Tech Test\Whitespace\API\bin\Debug\netcoreapp3.1\API.exe
+E:\Tech Test\Whitespace\API\bin\Debug\netcoreapp3.1\API.deps.json
+E:\Tech Test\Whitespace\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+E:\Tech Test\Whitespace\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+E:\Tech Test\Whitespace\API\bin\Debug\netcoreapp3.1\API.dll
+E:\Tech Test\Whitespace\API\bin\Debug\netcoreapp3.1\API.pdb
+E:\Tech Test\Whitespace\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+E:\Tech Test\Whitespace\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+E:\Tech Test\Whitespace\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+E:\Tech Test\Whitespace\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+E:\Tech Test\Whitespace\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+E:\Tech Test\Whitespace\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+E:\Tech Test\Whitespace\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+E:\Tech Test\Whitespace\API\obj\Debug\netcoreapp3.1\API.dll
+E:\Tech Test\Whitespace\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\Andrew.Marshall\Desktop\Whitespace MVC\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\API.exe
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\API.deps.json
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.json
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\API.runtimeconfig.dev.json
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\API.dll
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\API.pdb
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\API.csprojAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\API.AssemblyInfoInputs.cache
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\API.AssemblyInfo.cs
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\API.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\API.RazorTargetAssemblyInfo.cache
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.Manifest.cache
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\staticwebassets\API.StaticWebAssets.xml
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\API.dll
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\API.pdb
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\API.genruntimeconfig.cache
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\Repository.dll
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\Repository.pdb
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\User\Documents\Visual Studio 2019\WhiteSpaceTest\API\obj\Debug\netcoreapp3.1\API.csproj.CopyComplete
